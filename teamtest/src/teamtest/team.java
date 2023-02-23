@@ -1,5 +1,13 @@
 package teamtest;
 
 public class team {
-  //애무거나
+
+	
+	public static void main(String[] args) {
+		System.out.println("hello TP");
+	}
+
+
+
+
 }
